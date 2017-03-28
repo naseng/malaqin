@@ -1,0 +1,2 @@
+# malaqin
+training
